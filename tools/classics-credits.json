@@ -1,0 +1,62 @@
+[
+  {
+    "file": "assets/images/cinema/the-general-poster.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/The_General_%281926%29_-_Movie_Poster_2.png",
+    "license": "Public domain",
+    "format": "poster",
+    "title": "The General",
+    "source": "https://commons.wikimedia.org/wiki/File:The_General_(1926)_-_Movie_Poster_2.png",
+    "artist": "United Artists Corporation",
+    "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.imdb.com/title/tt0017925/mediaviewer/rm2687262464?ref_=ttmi_mi_all_pos_64\">https://www.imdb.com/title/tt0017925/mediaviewer/rm2687262464?ref_=ttmi_mi_all_pos_64</a>"
+  },
+  {
+    "file": "assets/images/cinema/the-general-banner.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Buster_Keaton_on_the_cow-catcher_in_The_General.jpg",
+    "license": "Public domain",
+    "format": "banner",
+    "title": "The General",
+    "source": "https://commons.wikimedia.org/wiki/File:Buster_Keaton_on_the_cow-catcher_in_The_General.jpg",
+    "artist": "Buster Keaton Productions",
+    "credit": "Performing Arts Special Collections, UCLA Library Digital Collections, <a rel=\"nofollow\" class=\"external free\" href=\"https://digital.library.ucla.edu/catalog/ark:/21198/zz001nsjr0\">https://digital.library.ucla.edu/catalog/ark:/21198/zz001nsjr0</a>"
+  },
+  {
+    "file": "assets/images/cinema/sherlock-jr-poster.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sherlock_jr_poster.jpg",
+    "license": "Public domain",
+    "format": "poster",
+    "title": "Sherlock Jr.",
+    "source": "https://commons.wikimedia.org/wiki/File:Sherlock_jr_poster.jpg",
+    "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+    "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.kinopoisk.ru/film/sherlok-mladshiy-1924-11380/\">Here</a>"
+  },
+  {
+    "file": "assets/images/cinema/sherlock-jr-banner.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Silent_film_theater_in_Sherlock_Jr.%2C_1924%2C_with_Buster_Keaton.png",
+    "license": "Public domain",
+    "format": "banner",
+    "title": "Sherlock Jr.",
+    "source": "https://commons.wikimedia.org/wiki/File:Silent_film_theater_in_Sherlock_Jr.,_1924,_with_Buster_Keaton.png",
+    "artist": "Unknown photographer<span style=\"display: none;\">Unknown photographer</span>",
+    "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://fidmarseille.org/en/festivals/festival-34/films/sherlock-jr\">FID</a>"
+  },
+  {
+    "file": "assets/images/cinema/the-kid-poster.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Kid_%281921%29_poster.jpg",
+    "license": "Public domain",
+    "format": "poster",
+    "title": "The Kid",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Kid_(1921)_poster.jpg",
+    "artist": "First National",
+    "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://dyn1.heritagestatic.com/lf?set=path%5B2%2F9%2F5%2F6%2F9%2F29569820%5D&amp;call=url%5Bfile%3Aproduct.chain%5D\">https://dyn1.heritagestatic.com/lf?set=path%5B2%2F9%2F5%2F6%2F9%2F29569820%5D&amp;call=url%5Bfile%3Aproduct.chain%5D</a>"
+  },
+  {
+    "file": "assets/images/cinema/the-kid-banner.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Still_from_Charles_Chaplin_-_The_Kid_-_1921_-_Charles_Chaplin_Productions_-_EYE_FOT2415.JPG",
+    "license": "Public domain",
+    "format": "banner",
+    "title": "The Kid",
+    "source": "https://commons.wikimedia.org/wiki/File:Still_from_Charles_Chaplin_-_The_Kid_-_1921_-_Charles_Chaplin_Productions_-_EYE_FOT2415.JPG",
+    "artist": "Charles Chaplin, <i>The Kid</i>, 1921, Charles Chaplin Productions (US)",
+    "credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:EYE_Institut_Filmmuseum\" class=\"extiw\" title=\"w:en:EYE Institut Filmmuseum\"><span title=\"Dutch archive and museum for cinema\">Eye Filmmuseum</span></a>\n</bdi>"
+  }
+]
