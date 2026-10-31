@@ -24,9 +24,6 @@ dart tools/preview.dart
 
 Abrir http://127.0.0.1:7362/ . `preview.dart` es únicamente un servidor estático de desarrollo ligado a localhost; no es un backend de la aplicación. En escritorio la interfaz conserva un ancho máximo de 480 px.
 
-## Respaldo previo
-
-Antes de modificar código o recursos se creó `backups/cineverse-antes-redisenio-20261031-100042.zip`. Contiene lib, test, web, assets y los archivos de configuración originales. Se excluyeron build y .dart_tool porque se regeneran. Los paisajes originales permanecen en assets/images, pero ya no se incluyen en el paquete de la aplicación.
 
 ## Pantallas y funcionalidades
 
@@ -81,7 +78,7 @@ Se incluyen todos los recursos necesarios. No debes agregar manualmente imágene
 
 Cada título tiene un póster diferente. Los banners son imágenes horizontales distintas de los pósteres; las películas de Blender tienen además panorámicas propias para portada/detalle. Los tres clásicos reutilizan su fotograma horizontal en el detalle, sin usar su póster vertical como banner. Las imágenes se ajustan con BoxFit.cover y no se estiran: los recortes preservan las proporciones originales.
 
-Los archivos principales están en assets/images/cinema. El catálogo distingue `imagen`, `respaldo`, `banner` y `portada`. Las fuentes TTF y sus licencias OFL se conservaron en assets/fonts y sus tres familias siguen declaradas en pubspec.yaml.
+Los archivos principales están en assets/images/cinema. El catálogo distingue `imagen`, `banner` y `portada`. Las fuentes TTF y sus licencias OFL se conservaron en assets/fonts y sus tres familias siguen declaradas en pubspec.yaml.
 
 La procedencia, autoría, licencia y URLs directas se documentan en [assets/FUENTES.md](assets/FUENTES.md); los manifiestos tools/media.json y tools/classics-credits.json permiten identificar cada archivo. También se puede abrir “Fuentes y licencia” dentro del detalle.
 
